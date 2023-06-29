@@ -9,11 +9,11 @@ Practicas con arduino
 
 5. LCD HolaMundo
 6. FotoResistencia
-7. Sensor de temperatura/Humedad
-8. RTC
-
-9.
-10.Sensor de colores
+7. Sensor de temperatura ////
+8. 
+9. RTC ////
+10.
+10.Sensor de colores ///
 
 11. Instalar linux
 12. Intalar IDE arduino. 
