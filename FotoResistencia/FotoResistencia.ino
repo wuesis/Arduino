@@ -1,3 +1,4 @@
+
 const int LEDPin = 2;
 const int LDRPin = A0;
 

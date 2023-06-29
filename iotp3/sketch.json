@@ -1,0 +1,22 @@
+{
+  "cpu": {
+    "fqbn": "esp32:esp32:nodemcu-32s:DebugLevel=none,EraseFlash=none,FlashFreq=80,UploadSpeed=921600",
+    "name": "NodeMCU-32S",
+    "type": "serial"
+  },
+  "secrets": [
+    {
+      "name": "SECRET_DEVICE_KEY",
+      "value": "INFINITUMC0CE_2.4"
+    },
+    {
+      "name": "SECRET_OPTIONAL_PASS",
+      "value": "0966255395"
+    },
+    {
+      "name": "SECRET_SSID",
+      "value": "0966255395"
+    }
+  ],
+  "included_libs": []
+}
